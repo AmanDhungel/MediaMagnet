@@ -1,8 +1,8 @@
-InnoHub - We're available for marketing
+Media magnet - We're available for marketing
 
 #---------- HEADER ----------#
 
-InnoHub
+Media magnet
 
 Home
 Services
@@ -21,7 +21,7 @@ aria-label = Toggle menu
 
 #---------- HERO ----------#
 
-InnoHub Marketing Agency
+Media magnet Marketing Agency
 
 We are available for marketing
 
